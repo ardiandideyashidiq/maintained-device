@@ -1,1 +1,1 @@
-init ota
+test update ota di custom rom anjai mabar
