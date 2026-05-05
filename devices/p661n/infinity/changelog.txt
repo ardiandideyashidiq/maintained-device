@@ -1,1 +1,1 @@
-init ota
+tes update ota unofficial
