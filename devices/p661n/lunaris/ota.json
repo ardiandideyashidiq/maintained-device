@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "R",
+      "oem": "Itel",
+      "device": "P661N",
+      "filename": "Lunaris-AOSP-P661N-Community-3.10-GMS-2026050611.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/P661N/Lunaris-AOSP-P661N-Community-3.10-GMS-2026050611.zip/download",
+      "timestamp": 1778063281,
+      "md5": "91b98b6c7bd7578af17b3c7870dcf13d",
+      "sha256": "9c154758753eefd78616a72c99abd5ce0b8e834a8581841a7351a90f2722c4da",
+      "size": 2934263928,
+      "version": "3.10",
+      "buildtype": "",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}
