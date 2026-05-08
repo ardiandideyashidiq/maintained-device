@@ -1,28 +1,23 @@
-ululu
-sakjs
-as
-asa
-sas
-as
-as
-asa
-sas
-as
-asa
-sa
-sa
-sa
-sa
-sa
-sa
-sas
-as
-as
-as
-asa
-sa
-sa
-sa
-sa
-sa
-s
+- Fixes for few issues that occurred right after v3.10 are pushed:
+
+* Fixed issues with alert slider / notification led light / device hardware keys / fingerprint wake up impl
+* Fixed no fingerprint icon on Always on Display which was showing a lock icon instead 
+* Fixed "do it later" button overlapping with fingerprint icon on settings udfps enrollment page on some devices
+* Fixed no pulse visualizer on ambient display
+* Fixed "Edit QS" section crash when OxygenOS icon pack applied
+* Fixed no haptics on extended volume panel style when changing volume from physical keys, also make expanded volume panel style follow volume panel timeout  settings
+* Fixed refresh rate qs tile mis-function
+
+- Few improvements too along side are as follows:
+* Improvements for HyperOS style QS panel and more proper separate notifications panel
+* Add haptics for connectivity tiles on HyperOS/OxygenOS QS style
+* Bring back system animation styles from v3.5, along with the fixed-style MediaTek transition animations as a selectable option.
+* Improve UDFPS unlocking speed and overall system speed when device unlocked
+* Performance and load improvements for dynamic bar
+* Improve app drawer searchbar
+* Hide lockscreen widgets when dynamic bar media player popup view showing
+
+Complete v3.10 changelog (https://t.me/ProjectInfinityX/1877)
+Complete Android 16 ROM Screenshots  (https://t.me/ProjectInfinityX/1697?single)
+Highlighted Screenshots for the v3.10 release (https://t.me/ProjectInfinityX/1849)
+Tutorial for new clock styles (https://t.me/ProjectInfinityX/1879)
