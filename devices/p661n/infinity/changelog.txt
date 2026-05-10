@@ -1,3 +1,6 @@
+- Fixed an issue where the phone cannot connect into WPA3 password protected wifi.
+- Reverting powerhint changes.
+
 - Fixes for few issues that occurred right after v3.10 are pushed:
 
 * Fixed issues with alert slider / notification led light / device hardware keys / fingerprint wake up impl
